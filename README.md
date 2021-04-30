@@ -1,6 +1,8 @@
 # 🎮 Jogo do Labirinto
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python 3" alt="Python 3 Badge")
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python 3" alt="Python 3 Badge" />
+  </a>
 </p>
 
 <p align="justify">
