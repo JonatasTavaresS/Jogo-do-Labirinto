@@ -43,5 +43,5 @@
 - Em caso de erro voltará pra a posição.
 
 ## 💻 Equipe
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>@TavaresJonatas</sub>](https://github.com/TavaresJonatas) | [<img alt="rienath" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>@llucas17</sub>](https://github.com/llucas17) | [<img alt="gabmls" src="https://github.com/gabmls.png?size=115" width="115"><br><sub>@gabmls</sub>](https://github.com/gabmls) |
+| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>@TavaresJonatas</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") | [<img alt="llucas17" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>@llucas17</sub>](https://github.com/llucas17 "Lucas Silva (@llucas17)") | [<img alt="gabmls" src="https://github.com/gabmls.png?size=115" width="115"><br><sub>@gabmls</sub>](https://github.com/gabmls "Maria Gabriela (@gabmls)") |
 | :---: | :---: | :---: |
