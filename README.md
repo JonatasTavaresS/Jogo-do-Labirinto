@@ -1,6 +1,6 @@
 # 🎮 Jogo do Labirinto
 <p align="center">
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python 3" alt="Python 3 Badge" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Iniciando
-1. É necessário ter uma versão de [Python 3](https://www.python.org/ "Página inicial de Python") instalada em sua máquina
+1. É necessário ter uma versão de [Python 3](https://www.python.org "Página inicial de Python") instalada em sua máquina
 
 2. Baixe o repositório
  - Usando Git
@@ -23,7 +23,7 @@
   ```
   > 💡 ou da maneira que você preferir
 
-3. Execute o arquivo [main/jogo.py](https://github.com/TavaresJonatas/Jogo-do-Labirinto/blob/main/main/jogo.py "Arquivo main/jogo.py")
+3. Execute o arquivo [main/jogo.py](main/jogo.py "Arquivo main/jogo.py")
   - Abra o prompt de comando de sua máquina
   - Acesse o diretório onde o arquivo está
   - Inicie a execução
@@ -43,5 +43,10 @@
 - Em caso de erro voltará pra a posição.
 
 ## 💻 Equipe
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>Jônatas Tavares</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") | [<img alt="llucas17" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>Lucas Silva</sub>](https://github.com/llucas17 "Lucas Silva (@llucas17)") | [<img alt="gabmls" src="https://github.com/gabmls.png?size=115" width="115"><br><sub>Maria Gabriela</sub>](https://github.com/gabmls "Maria Gabriela (@gabmls)") |
-| :---: | :---: | :---: |
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+    <td><a href="https://github.com/FtnLucas" title="Lucas Silva"><img src="https://avatars.githubusercontent.com/u/49314445" width="115px" alt="Foto de perfil de Lucas Silva" /><br /><sub>Lucas Silva</sub></a></td>
+    <td><a href="https://github.com/gabmls" title="Maria Gabriela"><img src="https://avatars.githubusercontent.com/u/50882435" width="115px" alt="Foto de perfil de Maria Gabriela" /><br /><sub>Maria Gabriela</sub></a></td>
+  </tr>
+</table>
